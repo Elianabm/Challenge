@@ -1,6 +1,6 @@
 describe('Buttons', function() 
 {
-   it('Input valid values', function()
+   it('DoubleClick, RigthClick and Click', function()
    
    {
   
