@@ -1,7 +1,3 @@
-// <reference types="cypress"/>
-
-//import { TabsPage } from "./TabsPage"
-
 
 
 describe('Tab Page Testing', () => {
